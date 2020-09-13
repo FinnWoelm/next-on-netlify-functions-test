@@ -1,0 +1,9 @@
+[build]
+  command   = ""
+  functions = "functions"
+  publish   = "public"
+
+[dev]
+  functions = "functions"
+  publish   = "public"
+  framework = "#static"
